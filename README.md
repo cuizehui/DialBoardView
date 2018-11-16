@@ -43,25 +43,25 @@ public interface DialViewListener {
 
 1. 获取输入框内容
 
-```
+```java
 mdialView.getNumber()
 ```
 
 2. 清空输入框
       
-```
+```java
     mdialView.cleanDialViewInput(); 
 ```
 
 3. 设置输入框内容
 
-```
+```java
 mdialView.setDialViewInput("123456");
 ```
 
 ## 示例代码
 
-```
+```java
  mdialView.setDialViewListener(new DialView.DialViewListener() {
             @Override
             public void inputChange() {
