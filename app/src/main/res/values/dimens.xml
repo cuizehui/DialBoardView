@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">50dp</dimen>
+    <dimen name="toolbar_margin_top">2dp</dimen>
+
+    <!--dial_view-->
+    <dimen name="dialpad_digit_text_size">30sp</dimen>
+    <dimen name="dialpad_pound_text_size">24sp</dimen>
+    <dimen name="dialpad_star_text_size">28sp</dimen>
+    <dimen name="dialpad_letters_text_size">10sp</dimen>
+
+</resources>

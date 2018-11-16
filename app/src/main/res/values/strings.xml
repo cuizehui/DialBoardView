@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">DialBoardView</string>
+    <!--dialView description -->
+    <string name="dialpad_0" translatable="false">0</string>
+    <string name="dialpad_1" translatable="false">1</string>
+    <string name="dialpad_2" translatable="false">2</string>
+    <string name="dialpad_3" translatable="false">3</string>
+    <string name="dialpad_4" translatable="false">4</string>
+    <string name="dialpad_5" translatable="false">5</string>
+    <string name="dialpad_6" translatable="false">6</string>
+    <string name="dialpad_7" translatable="false">7</string>
+    <string name="dialpad_8" translatable="false">8</string>
+    <string name="dialpad_9" translatable="false">9</string>
+    <string name="dialpad_abc" translatable="false">ABC</string>
+    <string name="dialpad_def" translatable="false">DEF</string>
+    <string name="dialpad_ghi" translatable="false">GHI</string>
+    <string name="dialpad_jkl" translatable="false">JKL</string>
+    <string name="dialpad_mno" translatable="false">MNO</string>
+    <string name="dialpad_pqrs" translatable="false">PQRS</string>
+    <string name="dialpad_tuv" translatable="false">TUV</string>
+    <string name="dialpad_wxyz" translatable="false">WXYZ</string>
+    <string name="dialpad_add" translatable="false">+</string>
+    <string name="dialpad_star" translatable="false">*</string>
+    <string name="dialpad_pound" translatable="false">#</string>
 </resources>
